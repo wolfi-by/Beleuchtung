@@ -1,0 +1,44 @@
+<mm_project serial_port="COM8" board="Arduino Uno" programmer="" includePaths="<($ARDUINO)\libraries;C:\Users\user\Documents\Arduino\libraries\" libPaths="" libs="" default="no" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="gartenmaster_main.h" open="yes" />
+    <file name="Master.cpp" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+    <external name="C:\Program Files (x86)\Arduino\libraries\SPI\SPI.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\Dhcp.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\Dns.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\Ethernet.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\EthernetClient.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\EthernetServer.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\EthernetUdp.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\utility\socket.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\Ethernet\utility\w5100.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\istream.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\MinimumSerial.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\ostream.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\Sd2Card.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdBaseFile.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdBaseFilePrint.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdFat.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdFatErrorPrint.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdFatUtil.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdFile.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdSpiArduino.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdSpiAVR.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdSpiMK20DX128.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdSpiSAM3X.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdStream.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\SdVolume.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\FastSPI_LED2\FastSPI_LED2.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\FastSPI_LED2\hsv2rgb.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\FastSPI_LED2\lib8tion.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\RS485_protocol\RS485_protocol.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\EEPROM\EEPROM.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\utility\DigitalPin.h" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\SdFat\utility\SoftSPI.h" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\SoftwareSerial\SoftwareSerial.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\types.h" />
+  </externals>
+</mm_project>

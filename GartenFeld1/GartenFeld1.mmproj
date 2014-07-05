@@ -1,0 +1,16 @@
+<mm_project serial_port="COM6" board="Arduino Nano w/ ATmega328" programmer="" includePaths="" libPaths="" libs="" default="no" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="GartenFeld1_main.cpp" open="yes" />
+    <file name="gartenfeld1_main.h" open="yes" />
+    <file name="types.h" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+    <external name="C:\Users\user\Documents\Arduino\libraries\FastSPI_LED2\FastSPI_LED2.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\FastSPI_LED2\hsv2rgb.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\FastSPI_LED2\lib8tion.cpp" />
+    <external name="C:\Program Files (x86)\Arduino\libraries\SoftwareSerial\SoftwareSerial.cpp" />
+    <external name="C:\Users\user\Documents\Arduino\libraries\RS485_protocol\RS485_protocol.cpp" />
+  </externals>
+</mm_project>
