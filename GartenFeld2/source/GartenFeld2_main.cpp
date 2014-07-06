@@ -18,7 +18,7 @@
  11 -
  12 - DataPin FastSPI
  ***************************
- RS485 Busadresse: 2
+ RS485 Busadresse: 3
  ***************************
 */
  
@@ -26,7 +26,7 @@
 #define MyAddress 3
  
 //defines für WS2811-Controller
-#define NUM_LEDS 10 //- Anzahl
+#define NUM_LEDS 15 //- Anzahl
 #define DATA_PIN 12 //- Pin
 //LED-Array definieren
 CRGB leds[NUM_LEDS];
